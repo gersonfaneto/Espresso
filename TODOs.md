@@ -2,7 +2,7 @@
 
 ## 0.1.0
 
-- [ ] Automatically rebuild the `composer` binary when changes are detected on
+- [ ] Automatically rebuild the `espresso` binary when changes are detected on
   the source file.
 
 - [ ] Define and implement the structure for commands.
